@@ -48,8 +48,8 @@
 		7CC36BA11935157900C63F11 /* PFileManagerTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PFileManagerTests-Info.plist"; sourceTree = "<group>"; };
 		7CC36BA31935157900C63F11 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7CC36BAF193517CF00C63F11 /* PFileManagerSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PFileManagerSpec.m; sourceTree = "<group>"; };
-		7CC36BB11935180300C63F11 /* PFileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFileManager.h; sourceTree = "<group>"; };
-		7CC36BB21935180300C63F11 /* PFileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PFileManager.m; sourceTree = "<group>"; };
+		7CC36BB11935180300C63F11 /* PFileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PFileManager.h; path = PFileManager/PFileManager.h; sourceTree = "<group>"; };
+		7CC36BB21935180300C63F11 /* PFileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = PFileManager.m; path = PFileManager/PFileManager.m; sourceTree = "<group>"; };
 		7CC36BB61935196800C63F11 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7CC36BB71935196800C63F11 /* PFileManager-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "PFileManager-Info.plist"; sourceTree = "<group>"; };
 		7CC36BB81935196800C63F11 /* PFileManager-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "PFileManager-Prefix.pch"; sourceTree = "<group>"; };
